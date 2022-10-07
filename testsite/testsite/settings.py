@@ -97,6 +97,7 @@ DATABASES = {
            'host': 'localhost:27017',
         }
     }
+    
 }
 
 # Password validation
